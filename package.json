@@ -1,0 +1,11 @@
+{
+  "name": "ez-steam-idler",
+  "version": "1.0.0",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "readline-sync": "^1.4.10",
+    "steam": "^1.4.1",
+    "steam-totp": "^2.1.1",
+    "steam-user": "^4.12.5"
+  }
+}
